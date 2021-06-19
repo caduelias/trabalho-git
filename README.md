@@ -7,3 +7,13 @@
 
 ---------------------------------------------------------------
 
+## Formação Acadêmica
+
+### Pós-Graduação - Cursando (UniAlfa)
+
+### Sistemas p/ Internet (FAU)
+
+### Ensino fundamental e médio (CED)
+
+---------------------------------------------------------------
+
