@@ -22,3 +22,11 @@
 ### Kronos-Api 
 
 ---------------------------------------------------------------
+
+## Redes Sociais
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/carlos-eduardo-elias-a61ba2180/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
+</p>
